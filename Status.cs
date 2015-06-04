@@ -1,5 +1,5 @@
 ﻿
-namespace SD.Utils.Heartbeat
+namespace StrangeVanilla.Framework.Heartbeat
 {
     public enum StatusEnum
     {

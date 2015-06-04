@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace SD.Utils.Heartbeat
+namespace StrangeVanilla.Framework.Heartbeat
 {
     using System.Data;
 

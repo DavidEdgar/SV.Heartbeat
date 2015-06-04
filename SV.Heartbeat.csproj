@@ -7,8 +7,8 @@
 		<ProjectGuid>983ef147-614d-48cc-9bac-ad1ec5d52305</ProjectGuid>
 		<OutputType>Library</OutputType>
 		<AppDesignerFolder>Properties</AppDesignerFolder>
-		<RootNamespace>SV.Heartbeat</RootNamespace>
-		<AssemblyName>SV.Heartbeat</AssemblyName>
+		<RootNamespace>StrangeVanilla.Framework.Heartbeat</RootNamespace>
+		<AssemblyName>StrangeVanilla.Framework.Heartbeat</AssemblyName>
 		<TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
 		<FileAlignment>512</FileAlignment>
 	</PropertyGroup>
