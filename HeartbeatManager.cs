@@ -14,14 +14,14 @@ namespace StrangeVanilla.Framework.Heartbeat
 			_heartbeats = new Dictionary<Guid, Task> ();
 		}
 		
-		public Guid StartBeating(Heartbeat heartbeat){
+		public Guid StartBeating(Heartbeat heartbeat, int every = 300000){
             TaskScheduler scheduler = TaskScheduler.Current;
 
 			Guid id = Guid.NewGuid();
 			var task = Task.Factory.StartNew (() => {
 				do {                     
 					heartbeat.DoHeartbeat ();
-					Thread.Sleep (5000);
+					Thread.Sleep (every);
 				} while (true);
 			},
 				            CancellationToken.None,
