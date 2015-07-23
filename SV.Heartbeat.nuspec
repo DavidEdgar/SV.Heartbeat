@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SV.Heartbeat</id>
+    <version>$version$</version>
+    <title>Heartbeat</title>
+    <authors>deadgar, David Porter</authors>
+    <owners>deadgar</owners>
+    <projectUrl>https://github.com/gilmae/SV.Heartbeat</projectUrl>
+    <licenseUrl>http://creativecommons.org/licenses/by-sa/4.0/</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>A heartbeat maechanism to  permit monitoring of app/service health</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+  </metadata>
+</package>
