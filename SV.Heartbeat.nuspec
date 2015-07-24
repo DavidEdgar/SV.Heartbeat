@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>SV.Heartbeat</id>
-    <version>0.9.0</version>
+    <version>0.9.1</version>
     <title>Heartbeat</title>
     <authors>deadgar, David Porter</authors>
     <owners>deadgar</owners>
